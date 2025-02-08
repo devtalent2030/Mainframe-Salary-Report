@@ -119,13 +119,6 @@ For a complete sample report, see the **documentation** folder.
 
 ---
 
-## 📌 Future Enhancements
-🔹 Convert the program to support **real-time processing** instead of batch.  
-🔹 Implement **dynamic salary rules** using an external database.  
-🔹 Add an **interactive CLI or web interface** for better usability.  
-
----
-
 ## 👨‍💻 Author
 **Talent Nyota**  
 - **GitHub:** [devtalent2030](https://github.com/devtalent2030)  
