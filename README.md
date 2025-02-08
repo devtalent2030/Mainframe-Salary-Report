@@ -10,7 +10,7 @@ This project follows industry best practices for mainframe development, ensuring
 ---
 
 ## 📂 Directory Structure
-```
+``` ```
 Mainframe-Salary-Report/
 │── 📂 source_code/            # COBOL and JCL source files
 │   ├── A4SALRPT.cbl          # COBOL program for salary processing
@@ -21,7 +21,7 @@ Mainframe-Salary-Report/
 │── 📂 results/                # Program execution outputs
 │── README.md                  # Project overview and setup guide
 │── .gitignore                 # Files to be ignored by Git
-```
+``` ```
 
 ---
 
