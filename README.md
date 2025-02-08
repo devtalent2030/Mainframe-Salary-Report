@@ -109,13 +109,7 @@ NUM  NAME          YEARS POSITION    SALARY     %       INCREASE       SALARY
 ```
 For a complete sample report, see the **documentation** folder.
 
----
 
-## 🎯 Project Goals
-📌 Strengthen COBOL & JCL knowledge in mainframe development.  
-📌 Implement structured programming & modular design.  
-📌 Follow best practices for **batch job processing** and **file handling** in mainframes.  
-📌 Produce well-documented and maintainable code.
 
 ---
 
